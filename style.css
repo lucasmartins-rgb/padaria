@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #847fce;
+    color: #272549;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -55,7 +55,7 @@ blockquote {
     border-left: 4px solid #435455;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #9be9dc;
+    background-color: #385668;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
